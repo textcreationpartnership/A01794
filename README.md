@@ -35,9 +35,17 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A neaste of vvaspes latelie found out and discouered in the Law-Countreys, yealding as sweete hony a
+
+1. TO THE Reader.
+
+1. THE COMMISSION.
+
 #####Body#####
-A neaste of vvaspes latelie found out and discouered in the Law-Countreys, yealding as sweete hony a
+
+1. AN EPIGRAM TO my Epigrams.
+
+1. Conclusion.
+
 **Types of content**
 
   * There are 984 **verse** lines!
